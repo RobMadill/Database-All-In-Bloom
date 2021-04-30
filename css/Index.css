@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.header{
+    margin-top: 35px;
+}
+.container{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 10px;
+}
