@@ -1,5 +1,6 @@
 # Database-All-In-Bloom
-In this last assignment of the semester the main focus was to use MySQL database along with our knowledge of PHP to create a website with a welcome, login, register, inventory, add-inventory and logout page. The requirements were that the inventory and add products page are not visable unless logged in. when logged in, the register &amp; login pages turn into a logout page
+In this last assignment of the semester the main focus was to use MySQL database along with our knowledge of PHP to create a website with a welcome, login, register, inventory, add-inventory and logout page. The requirements were that the inventory and add products page are not visable unless logged in. when logged in, the register & login pages turn into a logout page
+<br>
 ![index-welcome](https://user-images.githubusercontent.com/19481324/116736598-179d5780-a9be-11eb-9789-4793fec1bae0.png)<br>
 ![register-page](https://user-images.githubusercontent.com/19481324/116736604-1bc97500-a9be-11eb-893f-7a92316ca671.png)<br>
 ![login-page](https://user-images.githubusercontent.com/19481324/116736616-1e2bcf00-a9be-11eb-9244-0e035563ca3e.png)<br>
