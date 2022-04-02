@@ -76,11 +76,13 @@ While taking Web Programming at Sheridan College in 2021, we were given an assig
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+1. At the welcome page we see message that shows whoever visits the page to either login or register.
+2. After the user has logged in or registered they are taken directly to the inventory page.
+3. If we user wishes to add to the database, they can at the Add to Inventory page.
+4. Once the user is finished with their stay they can logout through the navigation bar or the Welcome Page.
 
 ### Welcome Page
 ![index-welcome](https://user-images.githubusercontent.com/19481324/116736598-179d5780-a9be-11eb-9789-4793fec1bae0.png)
-
-1. At the welcome page we see message that shows whoever visits the page to either login or register
 
 ### Register Page
 ![register-page](https://user-images.githubusercontent.com/19481324/116736604-1bc97500-a9be-11eb-893f-7a92316ca671.png)
@@ -88,24 +90,15 @@ While taking Web Programming at Sheridan College in 2021, we were given an assig
 ### Login Page
 ![login-page](https://user-images.githubusercontent.com/19481324/116736616-1e2bcf00-a9be-11eb-9244-0e035563ca3e.png)
 
-2. After the user has logged in or registered they are taken directly to the inventory page.
-
 ### Inventory Page
 ![inventory-page-after-login](https://user-images.githubusercontent.com/19481324/116736670-34398f80-a9be-11eb-8f3f-9f618f5fe00f.png)
-
-3. If we user wishes to add to the database, they can at the Add to Inventory page>
 
 ### Add to Inventory Page
 ![add-to-inventory](https://user-images.githubusercontent.com/19481324/116736678-36035300-a9be-11eb-8d4a-96ad5fd7ca6a.png)
 
-4. Once the user is finished with their stay they can logout through the navigation bar or the Welcome Page:
-
 ### Welcome Page
 
 ![index-after-login](https://user-images.githubusercontent.com/19481324/116736683-37cd1680-a9be-11eb-9f71-fb50a5fd9134.png)
-
-
-
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
